@@ -1,0 +1,1 @@
+webpackJsonp([1],{0:function(n,exports,o){o(8);var $=o(7);$("<div>这是jquery生成的多页面示例</div>").appendTo("body")},8:function(n,exports){}});

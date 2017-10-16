@@ -1,0 +1,1 @@
+webpackJsonp([0],[function(n,exports,a){a(1),a(3);var avalon=a(6);avalon.define({$id:"avalonCtrl",name:"Hello Avalon!"});var $=a(7);$("<div>这是jquery生成的</div>").appendTo("body")},function(n,exports){},,1]);
